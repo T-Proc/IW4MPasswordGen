@@ -1,5 +1,7 @@
 ﻿# IW4MPasswordGen
 
+Password Generator for https://github.com/RaidMax/IW4M-Admin
+
 I previously had an issue where request token and !RT would not work in my servers
 Probably a plugin I broke, has since been fixed.
 
