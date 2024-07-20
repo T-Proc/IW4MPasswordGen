@@ -7,6 +7,8 @@
 /// <param name="saltStr">salt of password</param>
 /// <returns></returns>
 /// 
+
+//Crap hacked out code by https://tproc.net ¯\_(ツ)_/¯
 Console.WriteLine("IW4M Pass:");
 string pass =Console.ReadLine();
 Console.WriteLine(Hash("Password"));
